@@ -1,5 +1,5 @@
 ============================================================
-Adobe Photoshop Lightroom: how to make a basic photo editing
+Abel Docs : Adobe Photoshop Lightroom: how to make a basic photo editing
 ============================================================
 
 .. sectnum::
