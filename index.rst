@@ -67,7 +67,7 @@ We are going to transform the following image:
 into this one:
 
  .. image:: imgs/5.jpg
-    :width: 1000px
+
 
 ****
 
@@ -188,4 +188,3 @@ Before export the photo, we're going to add a watermark to protect the copyright
 **Now we can admire our masterpiece**
 
  .. image:: imgs/5.jpg
-    :width: 1000px
