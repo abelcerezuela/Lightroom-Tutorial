@@ -71,7 +71,7 @@ into this one:
 
 ****
 
-1. Import the image
+Import the image
 --------------------
 Click the option *Import...* located in the right-bottom corner of the *Library* module and select the photography that you want to edit.
 
@@ -79,7 +79,7 @@ Click the option *Import...* located in the right-bottom corner of the *Library*
 
 ****
 
-2. Basic Panel
+Basic Panel
 --------------------
 Let's go to the *Develop* module. First of all, we want to improve the basic parameters such as White Balance, Exposure, Shadows and Saturation.
 All of these basic controls can be found at the *Basic* panel.
@@ -98,7 +98,7 @@ You can already notice a huge change and this only is only the beginning!
 
 ****
 
-3. Detail
+Detail
 --------------------
 
  In order to obtain a sharper image we're going to increase the amount of sharpening at the *Detail* panel:
@@ -109,7 +109,7 @@ Now, even the distant elements are clearly visible.
 
 ****
 
-4. Crop Tool
+Crop Tool
 -------------
  We're going to swift crop our photo with the *Crop Tool* which is located under the *Histogram* and looks like a rectangle.
 
@@ -117,7 +117,7 @@ Now, even the distant elements are clearly visible.
 
 ****
 
-5. Brush Tool
+Brush Tool
 --------------
 We want to edit separately the rocks, plants and water of this landscape. To achieve this, we're going to use the *Brush Tool* and select each one of these elements.
 
@@ -145,7 +145,7 @@ We want to edit separately the rocks, plants and water of this landscape. To ach
 
 ****
 
-6. Last touches: Tone Curve and Color Selection
+Last touches: Tone Curve and Color Selection
 ------------------------------------------------
 We're going to boost the brightness of the whole photograph using the *Tone Curve*.
 
@@ -169,7 +169,7 @@ Finally, we want to increase the saturation of the yellow color exclusively.
 
 ****
 
-7. Export the final result
+Export the final result
 ----------------------------
  Return to the *Library* module and click the option *Export...* :
 
