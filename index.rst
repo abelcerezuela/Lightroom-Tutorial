@@ -19,11 +19,11 @@ Despite sharing its name with *Adobe Photoshop*, it cannot perform many *Photosh
 
 Knowing its interface
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Lightroom is structured in **seven modules**: *Library, Develop, Map, Book, Slideshow, Print* and *Web*.
+Lightroom is structured in **seven modules**: *Library, Develop, Map, Book, Slideshow, Print* and *Web* [#]_.
 
  .. image:: imgs/1-modules.png
 
-Each Module is an independent section that contains a set of tools relevant only to that particular module. In other words, it is a way to group and organize different tools together. [#]_
+Each Module is an independent section that contains a set of tools relevant only to that particular module. In other words, it is a way to group and organize different tools together.
 The two core Modules are the *Library* and the *Deveolp*.
 
 **Library Module**
